@@ -102,7 +102,7 @@ public class Main extends javax.swing.JFrame {
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
-        Lecturer l=new Lecturer();
+        Lecturer1 l=new Lecturer1();
         l.setVisible(true);
     }//GEN-LAST:event_jButton2ActionPerformed
 
